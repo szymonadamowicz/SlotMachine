@@ -1,6 +1,6 @@
 # Slot Machine Game
 
-Welcome to the Slot Machine Game! This Python program simulates a slot machine where you can play and win based on symbol combinations across different lines. Project is made using YouTube tutorial: https://www.youtube.com/watch?v=th4OBktqK1I
+Welcome to the Slot Machine Game! This Python program simulates a slot machine where you can play and win based on symbol combinations across different lines. Project was made using YouTube tutorial: https://www.youtube.com/watch?v=th4OBktqK1I
 
 ## Getting Started
 
